@@ -1,0 +1,11 @@
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\bin\Debug\netcoreapp2.0\Reflection2.deps.json
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\bin\Debug\netcoreapp2.0\Reflection2.runtimeconfig.json
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\bin\Debug\netcoreapp2.0\Reflection2.runtimeconfig.dev.json
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\bin\Debug\netcoreapp2.0\Reflection2.dll
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\bin\Debug\netcoreapp2.0\Reflection2.pdb
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.csprojResolveAssemblyReference.cache
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.csproj.CoreCompileInputs.cache
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.AssemblyInfoInputs.cache
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.AssemblyInfo.cs
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.dll
+C:\Users\sfigu\Desktop\vle_content_file.file.ac8e7f95fabbab78.5265666c656374696f6e322e7a6970\Reflection2\obj\Debug\netcoreapp2.0\Reflection2.pdb
